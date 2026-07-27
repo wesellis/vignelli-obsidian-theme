@@ -4,6 +4,8 @@ A serif, rule-driven theme for [Obsidian](https://obsidian.md) — a screen port
 
 ![Vignelli — an Obsidian theme](assets/vignelli-hero.png)
 
+> **Install** — In Obsidian: **Settings → Appearance → Themes → Manage → Browse**, search **Vignelli** *(pending community-store approval)*. Or manually: drop `manifest.json` and `theme.css` into `<vault>/.obsidian/themes/Vignelli/` and select **Vignelli** under Appearance. [Full steps ↓](#install)
+
 Massimo Vignelli aesthetic: **serif type** (Bodoni display / Georgia body), a **rigorous grid**, and a strict **rule hierarchy carried in gold**. Headers, dividers (`---`), and table bars are gold in *both* themes; the black/bone ground simply reverses.
 
 > *"The life of a designer is a life of fight: fight against the ugliness."* — Massimo Vignelli
