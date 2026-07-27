@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Obsidian sandbox vault (if you test in-repo)
+.obsidian/workspace*
+.obsidian/cache
