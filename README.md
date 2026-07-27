@@ -1,6 +1,8 @@
 # Vignelli
 
-A serif, rule-driven theme for [Obsidian](https://obsidian.md) — a screen port of the "Vignelli reference" print house style. **Chalkboard black · bone white · gold.**
+A serif, rule-driven theme for [Obsidian](https://obsidian.md) — a screen port of the "Vignelli reference" print house style. **Black · bone-white · gold, with a teal highlighter.**
+
+![Vignelli — an Obsidian theme](assets/vignelli-hero.png)
 
 Massimo Vignelli aesthetic: **serif type** (Bodoni display / Georgia body), a **rigorous grid**, and a strict **rule hierarchy carried in gold**. Headers, dividers (`---`), and table bars are gold in *both* themes; the black/bone ground simply reverses.
 
@@ -26,7 +28,18 @@ Gold and teal are pinned across both modes; the black/white pair swaps. **Gold**
 - **Tables** — the header sits between gold bars, the body closes on a gold bar, hairline rules between rows. No vertical lines, no zebra, tabular numerals.
 - **Callouts** — a faint panel with a gold left rule and a gold small-caps label (a Vignelli set-off, not a docs-site admonition box).
 - **Code** — syntax **desaturated into the palette**: bone body, muted-italic comments, gold keywords — in reading, live-preview *and* source mode.
-- **Everything else** — links, tags, checkboxes, properties, embeds, graph, canvas, math, mermaid, scrollbars, tooltips, and a print stylesheet, all in chalkboard/bone/gold.
+- **Everything else** — links, tags, checkboxes, properties, embeds, graph, canvas, math, mermaid, scrollbars, tooltips, and a print stylesheet, all in black/bone/gold.
+
+---
+
+## Gallery
+
+The same theme across different kinds of notes — prose, code, checklists, data — in both light and dark.
+
+| | |
+| --- | --- |
+| ![Code & Ops — dark-mode syntax](assets/vignelli-code.png) | ![Reading — the six highlight colours](assets/vignelli-read.png) |
+| ![Lists & checklists — single page](assets/vignelli-recipe.png) | ![Data & grades — gold-barred tables](assets/vignelli-score.png) |
 
 ---
 
