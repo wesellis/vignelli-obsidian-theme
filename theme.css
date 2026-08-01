@@ -596,7 +596,7 @@ body {
    rule and a gold small-caps label. Icons hidden for the plain print look;
    the whole [data-callout] color system routed to gold.                        */
 .markdown-rendered .callout {
-	--callout-color: 209, 172, 35;
+	--callout-color: rgb(209, 172, 35);
 	--callout-radius: 0px;
 	background: var(--color-base-05);
 	border: var(--vg-rule-hair) solid var(--background-modifier-border);
